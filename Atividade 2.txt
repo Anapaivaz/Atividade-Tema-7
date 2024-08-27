@@ -1,0 +1,21 @@
+Reposta 1: 
+
+const quad = num => num * num;
+console.log(quad(4))
+
+Resposta 2:
+
+
+const soma = (a, b) => a + b;
+console.log(soma(5, 3)); // Saída: 8 
+
+Resposta 3: 
+
+ 
+const saudacao = () => "Olá, mundo!"
+console.log(saudacao()); // Saída: Olá, mundo! 
+
+Resposta 4: 
+
+const  multiplicarPorDois = num => resultado = num * 2
+console.log(multiplicarPorDois(7)); // Saída: 14
