@@ -9,10 +9,12 @@ Reposta 1:
 
 Resposta 2:
 
-const saudacao = nome => `Olá, ${nome}!`;
 
-let mensagem = saudacao('Ana');
-console.log(mensagem); // Saída: Olá, Ana!
+const saudacao = function(nome) {
+    return `Olá, ${nome}!`;
+};
+
+console.log(saudacao('Ana')); // Saída: Olá, Ana!
 
 
 Resposta 3: 
