@@ -10,7 +10,7 @@ Reposta 1:
 Resposta 2:
 
 
-const saudacao = function(nome) {
+let saudacao = function(nome) {
     return `Olá, ${nome}!`;
 };
 
